@@ -1,0 +1,6 @@
+.carousel-image{
+    max-height: 70vh;
+    width: 100% ; 
+    object-fit: contain;
+    object-position: center;
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Fundamentals",
+    "description": "A beginner-friendly course to learn web development from scratch.",
+    "instructor": "John Doe",
+    "price": 49.99,
+    "duration": "8 weeks",
+    "rating": 4.5,
+    "poster": "https://i.postimg.cc/vZ0x2J0D/web-development-fundamentals.jpg",
+    "category": "Web Development"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Mastery",
+    "description": "Master JavaScript programming and build interactive web applications.",
+    "instructor": "Jane Smith",
+    "price": 59.99,
+    "duration": "10 weeks",
+    "rating": 4.8,
+    "poster": "https://i.postimg.cc/zBbhgxSv/javascript-mastery.webp",
+    "category": "Web Development"
+  },
+  {
+    "id": 3,
+    "title": "React for Beginners",
+    "description": "Learn React.js and build modern, responsive web interfaces.",
+    "instructor": "Mike Johnson",
+    "price": 69.99,
+    "duration": "12 weeks",
+    "rating": 4.7,
+    "poster": "https://i.postimg.cc/Gh1D4JB3/react-js-for-beginners.webp",
+    "category": "Web Development"
+  },
+  {
+    "id": 4,
+    "title": "Python Programming for Data Science",
+    "description": "Explore Python for data analysis and machine learning.",
+    "instructor": "Emily Wilson",
+    "price": 79.99,
+    "duration": "14 weeks",
+    "rating": 4.9,
+    "poster": "https://i.postimg.cc/j2yJ8C1r/python-programming-for-data-science.png",
+    "category": "Data Science"
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development with Flutter",
+    "description": "Create cross-platform mobile apps using Flutter framework.",
+    "instructor": "David Brown",
+    "price": 89.99,
+    "duration": "16 weeks",
+    "rating": 4.6,
+    "poster": "https://i.postimg.cc/Nf7Hm9T6/mobile-app-development-with-flutter.webp",
+    "category": "Mobile App Development"
+  },
+  {
+    "id": 6,
+    "title": "Database Design and Management",
+    "description": "Learn how to design and manage databases for applications and businesses.",
+    "instructor": "Sarah Davis",
+    "price": 69.99,
+    "duration": "10 weeks",
+    "rating": 4.4,
+    "poster": "https://i.postimg.cc/MGrRHCBg/database-design-and-management.jpg",
+    "category": "Database Management"
+  },
+  {
+    "id": 7,
+    "title": "Photography Basics",
+    "description": "Begin your journey into photography with essential techniques and skills.",
+    "instructor": "Laura Johnson",
+    "price": 39.99,
+    "duration": "6 weeks",
+    "rating": 4.2,
+    "poster": "https://i.postimg.cc/K8GgNGrd/photography-basics.jpg",
+    "category": "Photography"
+  },
+  {
+    "id": 8,
+    "title": "Digital Marketing Strategies",
+    "description": "Master digital marketing with proven strategies and tactics.",
+    "instructor": "Mark Smith",
+    "price": 59.99,
+    "duration": "8 weeks",
+    "rating": 4.6,
+    "poster": "https://i.postimg.cc/mDvHN78w/digital-marketing-strategies.webp",
+    "category": "Digital Marketing"
+  },
+  {
+    "id": 9,
+    "title": "Creative Writing Workshop",
+    "description": "Unlock your creativity with this hands-on creative writing workshop.",
+    "instructor": "Emma Davis",
+    "price": 49.99,
+    "duration": "6 weeks",
+    "rating": 4.4,
+    "poster": "https://i.postimg.cc/pddz2WmD/creative-writing-workshop.webp",
+    "category": "Writing"
+  },
+  {
+    "id": 10,
+    "title": "Graphic Design Essentials",
+    "description": "Learn the fundamentals of graphic design and create stunning visuals.", 
+    "instructor": "Michael Clark",
+    "price": 69.99,
+    "duration": "10 weeks",
+    "rating": 4.8,
+    "poster": "https://i.postimg.cc/jqfNqkSk/graphic-design-essentials.jpg",
+    "category": "Graphic Design"
+  }
+]
